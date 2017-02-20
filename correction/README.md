@@ -1,4 +1,4 @@
-1. Ð£Õý.mÖÐµÄ´úÂëÊÇ×îÏêÏ¸µÄ
-2. Á½¸öMatrix.m·Ö±ðÊÇÅòÕÍ¸ú¸¯Ê´µÄÊµÏÖ
-3. find_node.mÊÇÕÒÁ½ÌõÖ±ÏßµÄ½»µã
-4. matr_max.mÎªÕÒ³ö¾ØÕóÖÐ×î´óÊýµÄÎ»ÖÃ
+* æ ¡æ­£.mä¸­çš„ä»£ç æ˜¯æœ€è¯¦ç»†çš„
+* ä¸¤ä¸ªMatrix.måˆ†åˆ«æ˜¯è†¨èƒ€è·Ÿè…èš€çš„å®žçŽ°
+* find_node.mæ˜¯æ‰¾ä¸¤æ¡ç›´çº¿çš„äº¤ç‚¹
+* matr_max.mä¸ºæ‰¾å‡ºçŸ©é˜µä¸­æœ€å¤§æ•°çš„ä½ç½®
